@@ -40,6 +40,4 @@ Post-processing and real-time visualization of sensor datasets:
 
 ## 📂 Repository Structure
 - `/Hardware`: KiCad project files and PDF schematics.
-- `/Firmware`: C++/Arduino source code.
 - `/Scripts`: Python data logger.
-- `/Docs`: Technical reports and MATLAB
